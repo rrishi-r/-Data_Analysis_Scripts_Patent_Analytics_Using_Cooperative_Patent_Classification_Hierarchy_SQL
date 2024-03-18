@@ -14,3 +14,6 @@
 4) Run PAT_APPLICANTS_SPLIT_PROC.sql
 5) Run ANALYTICS_EXTRACT.sql to export normalized Patent Analytics data to Excel
 6) Import Excel into Zoho analytics platform
+
+## Published Research Paper
+[2061-Article Text-11499-1-10-20211129.pdf](https://github.com/rrishi-r/Cooperative_Patent_Classification_Hierarchy_SQL/files/14640554/2061-Article.Text-11499-1-10-20211129.pdf)
